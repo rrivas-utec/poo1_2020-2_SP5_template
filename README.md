@@ -172,7 +172,7 @@ No consecutivos
 ### Problem Statement
 Un sudoku es una tabla de 9x9 y es completada en 9 recuadros de 3x3, eso significa que en cada recuadro de 3x3 debe incluir los números del 1 al 9.
 
-Escribir un programa donde el usuario debera ingresar 3 filas con 3 valores con dígitos desde 0 hasta 9, el programa debe verificar que no hayan digitos repeticiones, ni que esten fuera del rango de 1 a 9 y retornar si es valido o no, para el desarrollo de este programa se pide que desarrolle la siguiente función:  
+Escribir un programa donde el usuario debera ingresar 3 filas con 3 valores con dígitos desde 1 hasta 9, el programa debe verificar que no haya dígitos repeticiones, ni que esten fuera del rango de 1 a 9 y retornar si es válido o no, para el desarrollo de este programa se pide que desarrolle la siguiente función:  
 ```cpp
 bool es_sudoku_cuadrante_valido(int** cuadrante, int nfil, int ncol);
 ```  
@@ -201,7 +201,7 @@ Invalido
 ```
 **Output**
 ```bash
-Invalido
+Valido
 ```
 #### Ejemplo 2
 **Input**
