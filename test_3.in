@@ -1,0 +1,20 @@
+#input
+    5
+    20 10 40 30 60
+#output
+    No consecutivos
+#endtest
+
+#input
+    10
+    4 12 9 11 8 7 6 5 3 10
+#output
+    Consecutivos
+#endtest
+
+#input
+    4
+    4 2 3 5
+#output
+    Consecutivos
+#endtest
