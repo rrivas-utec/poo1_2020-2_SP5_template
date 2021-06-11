@@ -319,5 +319,5 @@ vector<int> obtener_maximo_comun_divisores(const vector<vector<int>>& matriz);
 ```
 **Output**
 ```bash
-2 3 8 6 4 1 2 6
+2 3 2 6 4 1 2 6
 ```
