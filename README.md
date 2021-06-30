@@ -2,6 +2,13 @@
 
 Ejercicios sobre arreglos/vectores, matrices y objetos del curso de programación orientada a objetos 1 (CS1102).
 
+## Instrucciones
+
+- El proyecto cuenta con los archivos `sp5.h` y `sp5.cpp`.
+- Las declaraciones de las preguntas se encuentran en el archivo `sp5.h` y las definiciones en el archivo `sp5.cpp`.
+- Completar las respuestas dentro de esos archivos (`sp5.h`, `sp5.cpp`) y se requiere agregar alguna nueva función incluirla dentro de estos archivos.
+- Los archivos deberan ser subidos directamente a www.gradescope.com.
+
 ## Ejercicio #1 - Concatenar arreglos
 
 ### Problem Statement  
